@@ -42,7 +42,7 @@
         {
           "statement": "new AsyncHttpClient().get(\"http://partnerslab.com/-/tube/checkpayment/uid/\" + Server.getDeviceId(), new AsyncHttpResponseHandler() {",
           "methodName": "public static void checkPaiment(final CallBack callBack)",
-          "className": "fm.xtube.core.MainManager.AnonymousClass3",
+          "className": "fm.xtube.core.MainManager",
           "lineNo": 146,
           "ID": 2
         },
